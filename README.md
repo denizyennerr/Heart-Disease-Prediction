@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ```
 Run Jupyter Notebook:
 ```bash
-jupyter notebook
+CVD
 ```
 Open and run the analysis notebook located in the `notebooks/` folder.
 
