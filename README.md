@@ -55,7 +55,7 @@ Open and run the analysis notebook located in the `notebooks/` folder.
 ## 📈 Key Insights
 - **Patients with high cholesterol and high blood pressure showed a strong correlation with CVD.**
 - **Exercise Induced Angina and ST depression were critical indicators of heart disease risk.**
-- **Machine Learning models achieved an accuracy of ~85% in predicting heart disease.**
+- **Machine Learning models achieved an accuracy of ~75% in predicting heart disease.**
 
 ---
 
@@ -64,9 +64,9 @@ If you find this project useful, consider giving it a ⭐ on GitHub!
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-📧 Contact: your.email@example.com
+📧 Contact: denizyennerr@gmail.com
 
 ---
 
-🛠 **Built With:** Python, Pandas, Scikit-Learn, Seaborn, Matplotlib
+🛠 **Built With:** Python
 
